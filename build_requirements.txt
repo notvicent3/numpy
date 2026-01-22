@@ -1,6 +1,6 @@
 meson-python>=0.13.1
 Cython>=3.0
-wheel==0.38.1
+wheel==0.46.2
 ninja
 spin==0.7
 build
